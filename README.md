@@ -1,2 +1,6 @@
 # Arabic-Dialect-classification
-Building dialect classifiers using Twitter data
+Building arabic dialect classifiers using Twitter data
+
+
+
+
