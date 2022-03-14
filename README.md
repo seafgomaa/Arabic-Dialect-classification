@@ -19,9 +19,9 @@ w
 ## Results:
 - Perform confusion matrix, classification report.
 
-# Deep Learning - Text Classification with LSTM
-- Word2Vec
-- Word embeddings using Gensim
+# Deep Learning
+## Models
+- Text Classification with LSTM
 ## Results:
 - Perform plots and prediction test on test data.
 
@@ -29,5 +29,5 @@ w
 Seaf Gomaa
 
 # Acknowledgments
-- More acknowledgments available in the paper titled (Arabic Dialect Identification in the Wild) was puplished in 15 May 2020 from Qatar Computing Research Institute.
+- More information available in the paper titled (Arabic Dialect Identification in the Wild) was puplished in 15 May 2020 from Qatar Computing Research Institute.
 
