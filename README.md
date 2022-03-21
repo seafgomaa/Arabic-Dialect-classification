@@ -30,7 +30,7 @@ Using starter dataset that contains dialect and id for each tweet to request the
 Using pickle to save trained models, victorizer, transformer, tokenizer and encoder to easily use it seperatly on deployment file
 
 # Deploy
-Using Flask API and pre-scripted html template to perform easy interface for the user to use the model.
+Using Flask API and pre-scripted HTML template to perform an easy interface for the user to use the model.
 
 # Authors
 Seaf Gomaa
