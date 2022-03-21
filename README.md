@@ -1,12 +1,12 @@
 # Arabic Dialect classification
-A task to Build arabic dialect with machine learning and deep learning classifiers using Twitter data.
+A task to Build Arabic dialect with machine learning and deep learning classifiers using Twitter data.
 
 # Dataset
-Using starter dataset that contains dialect and id for each tweet to request the tweet text it self as dict from API  https://recruitment.aimtechnologies.co/ai-tasks, add this dict to dataframe and merge it with dialect to get all data in a dataframe then save it as csv file.
+Using starter dataset that contains dialect and id for each tweet to request the tweet text itself as dict from API https://recruitment.aimtechnologies.co/ai-tasks, add this dict to data frame and merge it with dialect to get all data in a data frame then save it as CSV file.
 
 # Cleaning data:
-- Using regex to filter out emojis, punctuation, non-arabic chars, and normalize a special arabic characters.
-- Save cleaned data into a seperate dataframe.
+- Use regex to filter out emojis, punctuation, non-Arabic chars, and normalize special Arabic characters.
+- Save cleaned data into a separate data frame.
 
 # preparing data for models
 - performing a CountVectorizer and TFIDF transformer on the data before fed to machine learning model.
